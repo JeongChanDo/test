@@ -15,6 +15,9 @@ int i;
 int cnt = 0;
 
 int haha;
+
+char asd;//¼öÁ¤ 
+
 void main() {
 
 	int size = 5;
