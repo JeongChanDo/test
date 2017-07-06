@@ -14,7 +14,7 @@ void free_areas(char ***ps);
 int i;
 int cnt = 0;
 
-
+int haha;
 void main() {
 
 	int size = 5;
