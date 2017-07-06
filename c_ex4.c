@@ -14,6 +14,7 @@ void free_areas(char ***ps);
 int i;
 int cnt = 0;
 
+int res; // 내가 쓴 코드 
 
 void main() {
 
